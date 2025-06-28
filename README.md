@@ -32,7 +32,7 @@ global-superstore-dashboard/
 ## 📌 Tools Used
 
 - Microsoft Excel (Pivot Tables, Charts)
-- Power BI (DAX, Visuals, Slicers)
+- Power BI (Visuals, Slicers)
 - Dataset: [Global Superstore (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) — Public dataset
 
 ---
@@ -58,5 +58,5 @@ global-superstore-dashboard/
 ## 💡 Next Steps
 
 - Add drill-down capabilities in Power BI (e.g., Region → Country → City)
-- Incorporate return data to analyze profit loss from returned orders
-- Add more visuals like Profit Margin %, Sales by Customer Segment
+- Power Query for complex data cleaning, merging multiple files, or transforming columns
+- DAX for custom measures like profit margin %, YoY growth, etc.
